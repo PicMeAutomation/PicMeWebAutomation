@@ -1,0 +1,3 @@
+# Initial config file for reports
+Report_File_Path=Reports\\Lawline\\Build\\Run_1\\
+Build_Run_Count=2

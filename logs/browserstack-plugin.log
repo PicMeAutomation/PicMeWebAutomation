@@ -1,0 +1,219 @@
+11:57:34.404 [main] INFO  c.b.launchers.LaunchMavenCommand - Executing maven archetype command - browserstack-sdk-archetype-integrate
+11:57:34.420 [main] INFO  c.b.launchers.LaunchMavenCommand - The maven properties for launcher are [archetypeVersion=1.5, archetypeGroupId=com.browserstack, archetypeArtifactId=browserstack-sdk-archetype-integrate, BROWSERSTACK_ACCESS_KEY=ADweeYzR9K1PGP79rkrs, groupId=com.browserstack, artifactId=java-archetype-integrate, BROWSERSTACK_USERNAME=qatest_zbowfs, BROWSERSTACK_FRAMEWORK=java, BUILD_NAME=browserstack build, version=1.0, PROJECT_NAME=PicMeAutomation, BROWSERSTACK_SOURCE=java:eclipse:v1.0.10]
+11:57:34.432 [Worker-0: Launching mavenrun-4786fcd3-7b34-4272-894c-0ac762fea7d7] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+12:07:09.233 [Worker-24: Launching PicMeWebAutomation_src.main.resources.XMLFiles.LoginXML.Login.xml] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+12:07:09.236 [Worker-24: Launching PicMeWebAutomation_src.main.resources.XMLFiles.LoginXML.Login.xml] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+12:07:09.247 [Worker-24: Launching PicMeWebAutomation_src.main.resources.XMLFiles.LoginXML.Login.xml] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+12:07:09.248 [Worker-24: Launching PicMeWebAutomation_src.main.resources.XMLFiles.LoginXML.Login.xml] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.10}
+12:36:40.121 [Worker-39: Launching PicMeWebAutomation_src.main.resources.XMLFiles.LoginXML.Login.xml] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+12:36:40.124 [Worker-39: Launching PicMeWebAutomation_src.main.resources.XMLFiles.LoginXML.Login.xml] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+12:36:40.127 [Worker-39: Launching PicMeWebAutomation_src.main.resources.XMLFiles.LoginXML.Login.xml] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+12:36:40.128 [Worker-39: Launching PicMeWebAutomation_src.main.resources.XMLFiles.LoginXML.Login.xml] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.10}
+12:46:06.693 [Worker-45: Launching PicMeWebAutomation_src.main.resources.XMLFiles.LoginXML.Login.xml] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+12:46:06.698 [Worker-45: Launching PicMeWebAutomation_src.main.resources.XMLFiles.LoginXML.Login.xml] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+12:46:06.708 [Worker-45: Launching PicMeWebAutomation_src.main.resources.XMLFiles.LoginXML.Login.xml] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+12:46:06.711 [Worker-45: Launching PicMeWebAutomation_src.main.resources.XMLFiles.LoginXML.Login.xml] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.10}
+12:48:51.262 [Worker-48: Launching PicMeWebAutomation_src.main.resources.XMLFiles.LoginXML.Login.xml] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+12:48:51.265 [Worker-48: Launching PicMeWebAutomation_src.main.resources.XMLFiles.LoginXML.Login.xml] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+12:48:51.274 [Worker-48: Launching PicMeWebAutomation_src.main.resources.XMLFiles.LoginXML.Login.xml] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+12:48:51.276 [Worker-48: Launching PicMeWebAutomation_src.main.resources.XMLFiles.LoginXML.Login.xml] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.10}
+12:51:32.167 [Worker-50: Launching PicMeWebAutomation_src.main.resources.XMLFiles.LoginXML.Login.xml] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+12:51:32.170 [Worker-50: Launching PicMeWebAutomation_src.main.resources.XMLFiles.LoginXML.Login.xml] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+12:51:32.178 [Worker-50: Launching PicMeWebAutomation_src.main.resources.XMLFiles.LoginXML.Login.xml] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+12:51:32.181 [Worker-50: Launching PicMeWebAutomation_src.main.resources.XMLFiles.LoginXML.Login.xml] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.10}
+12:59:17.461 [Worker-49: Launching PicMeWebAutomation_src.main.resources.XMLFiles.LoginXML.Login.xml] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+12:59:17.463 [Worker-49: Launching PicMeWebAutomation_src.main.resources.XMLFiles.LoginXML.Login.xml] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+12:59:17.465 [Worker-49: Launching PicMeWebAutomation_src.main.resources.XMLFiles.LoginXML.Login.xml] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+12:59:17.466 [Worker-49: Launching PicMeWebAutomation_src.main.resources.XMLFiles.LoginXML.Login.xml] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.10}
+13:28:36.150 [Worker-62: Launching PicMeWebAutomation_src.main.resources.XMLFiles.LoginXML.Login.xml] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+13:28:36.152 [Worker-62: Launching PicMeWebAutomation_src.main.resources.XMLFiles.LoginXML.Login.xml] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+13:28:36.155 [Worker-62: Launching PicMeWebAutomation_src.main.resources.XMLFiles.LoginXML.Login.xml] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+13:28:36.156 [Worker-62: Launching PicMeWebAutomation_src.main.resources.XMLFiles.LoginXML.Login.xml] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.10}
+13:30:02.003 [Worker-65: Launching PicMeWebAutomation_src.main.resources.XMLFiles.LoginXML.Login.xml] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+13:30:02.005 [Worker-65: Launching PicMeWebAutomation_src.main.resources.XMLFiles.LoginXML.Login.xml] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+13:30:02.010 [Worker-65: Launching PicMeWebAutomation_src.main.resources.XMLFiles.LoginXML.Login.xml] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+13:30:02.012 [Worker-65: Launching PicMeWebAutomation_src.main.resources.XMLFiles.LoginXML.Login.xml] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.10}
+15:44:20.427 [Worker-92: Launching PicMeWebAutomation_src.main.resources.XMLFiles.LoginXML.Login.xml] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+15:44:20.440 [Worker-92: Launching PicMeWebAutomation_src.main.resources.XMLFiles.LoginXML.Login.xml] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+15:44:20.445 [Worker-92: Launching PicMeWebAutomation_src.main.resources.XMLFiles.LoginXML.Login.xml] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+15:44:20.446 [Worker-92: Launching PicMeWebAutomation_src.main.resources.XMLFiles.LoginXML.Login.xml] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.10}
+15:52:23.958 [Worker-87: Launching PicMeWebAutomation_src.main.resources.XMLFiles.LoginXML.Login.xml] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+15:52:23.960 [Worker-87: Launching PicMeWebAutomation_src.main.resources.XMLFiles.LoginXML.Login.xml] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+15:52:23.963 [Worker-87: Launching PicMeWebAutomation_src.main.resources.XMLFiles.LoginXML.Login.xml] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+15:52:23.965 [Worker-87: Launching PicMeWebAutomation_src.main.resources.XMLFiles.LoginXML.Login.xml] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.10}
+15:59:25.960 [Worker-103: Launching PicMeWebAutomation_src.main.resources.XMLFiles.LoginXML.Login.xml] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+15:59:25.962 [Worker-103: Launching PicMeWebAutomation_src.main.resources.XMLFiles.LoginXML.Login.xml] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+15:59:25.970 [Worker-103: Launching PicMeWebAutomation_src.main.resources.XMLFiles.LoginXML.Login.xml] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+15:59:25.971 [Worker-103: Launching PicMeWebAutomation_src.main.resources.XMLFiles.LoginXML.Login.xml] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.10}
+16:03:09.920 [Worker-108: Launching PicMeWebAutomation_src.main.resources.XMLFiles.LoginXML.Login.xml] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+16:03:09.922 [Worker-108: Launching PicMeWebAutomation_src.main.resources.XMLFiles.LoginXML.Login.xml] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+16:03:09.924 [Worker-108: Launching PicMeWebAutomation_src.main.resources.XMLFiles.LoginXML.Login.xml] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+16:03:09.927 [Worker-108: Launching PicMeWebAutomation_src.main.resources.XMLFiles.LoginXML.Login.xml] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.10}
+16:11:26.616 [Worker-112: Launching PicMeWebAutomation_src.main.resources.XMLFiles.LoginXML.Login.xml] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+16:11:26.617 [Worker-112: Launching PicMeWebAutomation_src.main.resources.XMLFiles.LoginXML.Login.xml] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+16:11:26.620 [Worker-112: Launching PicMeWebAutomation_src.main.resources.XMLFiles.LoginXML.Login.xml] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+16:11:26.621 [Worker-112: Launching PicMeWebAutomation_src.main.resources.XMLFiles.LoginXML.Login.xml] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.10}
+16:21:34.307 [Worker-121: Launching PicMeWebAutomation_src.main.resources.XMLFiles.LoginXML.Login.xml] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+16:21:34.308 [Worker-121: Launching PicMeWebAutomation_src.main.resources.XMLFiles.LoginXML.Login.xml] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+16:21:34.312 [Worker-121: Launching PicMeWebAutomation_src.main.resources.XMLFiles.LoginXML.Login.xml] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+16:21:34.313 [Worker-121: Launching PicMeWebAutomation_src.main.resources.XMLFiles.LoginXML.Login.xml] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.10}
+16:29:36.434 [Worker-116: Launching PicMeWebAutomation_src.main.resources.XMLFiles.LoginXML.Login.xml] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+16:29:36.437 [Worker-116: Launching PicMeWebAutomation_src.main.resources.XMLFiles.LoginXML.Login.xml] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+16:29:36.440 [Worker-116: Launching PicMeWebAutomation_src.main.resources.XMLFiles.LoginXML.Login.xml] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+16:29:36.441 [Worker-116: Launching PicMeWebAutomation_src.main.resources.XMLFiles.LoginXML.Login.xml] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.10}
+16:34:06.220 [Worker-127: Launching PicMeWebAutomation_src.main.resources.XMLFiles.LoginXML.Login.xml] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+16:34:06.222 [Worker-127: Launching PicMeWebAutomation_src.main.resources.XMLFiles.LoginXML.Login.xml] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+16:34:06.225 [Worker-127: Launching PicMeWebAutomation_src.main.resources.XMLFiles.LoginXML.Login.xml] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+16:34:06.226 [Worker-127: Launching PicMeWebAutomation_src.main.resources.XMLFiles.LoginXML.Login.xml] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.10}
+16:41:20.699 [Worker-135: Launching PicMeWebAutomation_src.main.resources.XMLFiles.LoginXML.Login.xml] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+16:41:20.701 [Worker-135: Launching PicMeWebAutomation_src.main.resources.XMLFiles.LoginXML.Login.xml] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+16:41:20.705 [Worker-135: Launching PicMeWebAutomation_src.main.resources.XMLFiles.LoginXML.Login.xml] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+16:41:20.705 [Worker-135: Launching PicMeWebAutomation_src.main.resources.XMLFiles.LoginXML.Login.xml] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.10}
+16:47:42.040 [Worker-134: Launching PicMeWebAutomation_src.main.resources.XMLFiles.LoginXML.Login.xml] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+16:47:42.043 [Worker-134: Launching PicMeWebAutomation_src.main.resources.XMLFiles.LoginXML.Login.xml] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+16:47:42.047 [Worker-134: Launching PicMeWebAutomation_src.main.resources.XMLFiles.LoginXML.Login.xml] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+16:47:42.049 [Worker-134: Launching PicMeWebAutomation_src.main.resources.XMLFiles.LoginXML.Login.xml] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.10}
+16:53:53.750 [Worker-134: Launching PicMeWebAutomation_src.main.resources.XMLFiles.LoginXML.Login.xml] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+16:53:53.752 [Worker-134: Launching PicMeWebAutomation_src.main.resources.XMLFiles.LoginXML.Login.xml] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+16:53:53.756 [Worker-134: Launching PicMeWebAutomation_src.main.resources.XMLFiles.LoginXML.Login.xml] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+16:53:53.757 [Worker-134: Launching PicMeWebAutomation_src.main.resources.XMLFiles.LoginXML.Login.xml] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.10}
+16:54:20.218 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+16:54:20.218 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+16:54:20.221 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/PicMeWebAutomation
+16:54:20.222 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+16:54:20.222 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+16:54:20.223 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/PicMeWebAutomation
+16:54:22.517 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+16:54:22.519 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+16:54:22.523 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/PicMeWebAutomation
+16:54:22.524 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+16:54:22.527 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+16:54:22.532 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/PicMeWebAutomation
+16:54:26.905 [main] INFO  c.b.BrowserStackPluginActivator - Setting browserstackPluginEnabled (BROWSERSTACK_PLUGIN_ENABLED) in plugin prefs - false
+16:54:26.930 [main] INFO  c.b.actions.BrowserStackPluginToggle - Is Enabled file:/C:/Users/91797/eclipse-workspace/PicMeWebAutomation
+16:54:36.226 [Worker-141: Launching PicMeWebAutomation_src.main.resources.XMLFiles.LoginXML.Login.xml] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+16:54:36.229 [Worker-141: Launching PicMeWebAutomation_src.main.resources.XMLFiles.LoginXML.Login.xml] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+16:54:36.231 [Worker-141: Launching PicMeWebAutomation_src.main.resources.XMLFiles.LoginXML.Login.xml] INFO  c.b.BrowserStackPluginActivator - Prefs Keys [BROWSERSTACK_PLUGIN_ENABLED]
+16:54:36.232 [Worker-141: Launching PicMeWebAutomation_src.main.resources.XMLFiles.LoginXML.Login.xml] INFO  c.b.BrowserStackPluginActivator - Is BrowserStack Plugin enabled during the launch? - false
+16:54:36.233 [Worker-141: Launching PicMeWebAutomation_src.main.resources.XMLFiles.LoginXML.Login.xml] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_TEST_OBSERVABILITY=false, BROWSERSTACK_AUTOMATION=false, BROWSERSTACK_PLUGIN_SDK_ENABLED=false}
+17:01:01.121 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+17:01:01.121 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys [BROWSERSTACK_PLUGIN_ENABLED]
+17:01:01.123 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : false P/PicMeWebAutomation
+17:01:01.127 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+17:01:01.128 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys [BROWSERSTACK_PLUGIN_ENABLED]
+17:01:01.129 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : true P/PicMeWebAutomation
+17:02:11.277 [Worker-144: Launching PicMeWebAutomation_src.main.resources.XMLFiles.LoginXML.Login.xml] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+17:02:11.278 [Worker-144: Launching PicMeWebAutomation_src.main.resources.XMLFiles.LoginXML.Login.xml] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+17:02:11.281 [Worker-144: Launching PicMeWebAutomation_src.main.resources.XMLFiles.LoginXML.Login.xml] INFO  c.b.BrowserStackPluginActivator - Prefs Keys [BROWSERSTACK_PLUGIN_ENABLED]
+17:02:11.281 [Worker-144: Launching PicMeWebAutomation_src.main.resources.XMLFiles.LoginXML.Login.xml] INFO  c.b.BrowserStackPluginActivator - Is BrowserStack Plugin enabled during the launch? - false
+17:02:11.283 [Worker-144: Launching PicMeWebAutomation_src.main.resources.XMLFiles.LoginXML.Login.xml] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_TEST_OBSERVABILITY=false, BROWSERSTACK_PLUGIN_SDK_ENABLED=false, BROWSERSTACK_AUTOMATION=false}
+17:03:10.909 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+17:03:10.909 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys [BROWSERSTACK_PLUGIN_ENABLED]
+17:03:10.911 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : false P/PicMeWebAutomation
+17:03:10.912 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+17:03:10.912 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys [BROWSERSTACK_PLUGIN_ENABLED]
+17:03:10.913 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : true P/PicMeWebAutomation
+17:03:13.580 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+17:03:13.583 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys [BROWSERSTACK_PLUGIN_ENABLED]
+17:03:13.593 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : false P/PicMeWebAutomation
+17:03:13.595 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+17:03:13.598 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys [BROWSERSTACK_PLUGIN_ENABLED]
+17:03:13.602 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : true P/PicMeWebAutomation
+17:03:39.882 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+17:03:39.882 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys [BROWSERSTACK_PLUGIN_ENABLED]
+17:03:39.884 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : false P/PicMeWebAutomation
+17:03:39.885 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+17:03:39.885 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys [BROWSERSTACK_PLUGIN_ENABLED]
+17:03:39.888 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : true P/PicMeWebAutomation
+17:03:42.441 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+17:03:42.443 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys [BROWSERSTACK_PLUGIN_ENABLED]
+17:03:42.445 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : false P/PicMeWebAutomation
+17:03:42.446 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+17:03:42.447 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys [BROWSERSTACK_PLUGIN_ENABLED]
+17:03:42.450 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : true P/PicMeWebAutomation
+17:04:24.802 [main] INFO  c.b.launchers.LaunchMavenCommand - Executing maven archetype command - browserstack-sdk-archetype-integrate
+17:04:24.815 [main] INFO  c.b.launchers.LaunchMavenCommand - The maven properties for launcher are [archetypeVersion=1.5, archetypeGroupId=com.browserstack, archetypeArtifactId=browserstack-sdk-archetype-integrate, BROWSERSTACK_ACCESS_KEY=ADweeYzR9K1PGP79rkrs, groupId=com.browserstack, artifactId=java-archetype-integrate, BROWSERSTACK_USERNAME=qatest_zbowfs, BROWSERSTACK_FRAMEWORK=java, BUILD_NAME=browserstack build, version=1.0, PROJECT_NAME=PicMe, BROWSERSTACK_SOURCE=java:eclipse:v1.0.10]
+17:04:24.821 [Worker-147: Launching mavenrun-78a4ff21-9c99-4915-9ae6-de427e0a7308] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+17:05:05.222 [Worker-149: Launching PicMeWebAutomation_src.main.resources.XMLFiles.LoginXML.Login.xml] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+17:05:05.226 [Worker-149: Launching PicMeWebAutomation_src.main.resources.XMLFiles.LoginXML.Login.xml] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+17:05:05.229 [Worker-149: Launching PicMeWebAutomation_src.main.resources.XMLFiles.LoginXML.Login.xml] INFO  c.b.BrowserStackPluginActivator - Prefs Keys [BROWSERSTACK_PLUGIN_ENABLED]
+17:05:05.230 [Worker-149: Launching PicMeWebAutomation_src.main.resources.XMLFiles.LoginXML.Login.xml] INFO  c.b.BrowserStackPluginActivator - Is BrowserStack Plugin enabled during the launch? - false
+17:05:05.231 [Worker-149: Launching PicMeWebAutomation_src.main.resources.XMLFiles.LoginXML.Login.xml] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_TEST_OBSERVABILITY=false, BROWSERSTACK_PLUGIN_SDK_ENABLED=false, BROWSERSTACK_AUTOMATION=false}
+17:05:14.536 [Worker-149: Launching PicMeWebAutomation_src.main.resources.XMLFiles.LoginXML.Login.xml] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+17:05:38.581 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+17:05:38.581 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys [BROWSERSTACK_PLUGIN_ENABLED]
+17:05:38.583 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : false P/PicMeWebAutomation
+17:05:38.584 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+17:05:38.584 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys [BROWSERSTACK_PLUGIN_ENABLED]
+17:05:38.585 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : true P/PicMeWebAutomation
+17:06:16.399 [Worker-155: Launching PicMeWebAutomation_src.main.resources.XMLFiles.LoginXML.Login.xml] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+17:06:16.401 [Worker-155: Launching PicMeWebAutomation_src.main.resources.XMLFiles.LoginXML.Login.xml] INFO  c.b.BrowserStackPluginActivator - Prefs Keys [BROWSERSTACK_PLUGIN_ENABLED]
+17:06:16.402 [Worker-155: Launching PicMeWebAutomation_src.main.resources.XMLFiles.LoginXML.Login.xml] INFO  c.b.BrowserStackPluginActivator - Is BrowserStack Plugin enabled during the launch? - false
+17:06:16.403 [Worker-155: Launching PicMeWebAutomation_src.main.resources.XMLFiles.LoginXML.Login.xml] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_TEST_OBSERVABILITY=false, BROWSERSTACK_PLUGIN_SDK_ENABLED=false, BROWSERSTACK_AUTOMATION=false}
+17:11:30.167 [Worker-134: Launching PicMeWebAutomation_src.main.resources.XMLFiles.LoginXML.Login.xml] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+17:11:30.169 [Worker-134: Launching PicMeWebAutomation_src.main.resources.XMLFiles.LoginXML.Login.xml] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+17:11:30.172 [Worker-134: Launching PicMeWebAutomation_src.main.resources.XMLFiles.LoginXML.Login.xml] INFO  c.b.BrowserStackPluginActivator - Prefs Keys [BROWSERSTACK_PLUGIN_ENABLED]
+17:11:30.174 [Worker-134: Launching PicMeWebAutomation_src.main.resources.XMLFiles.LoginXML.Login.xml] INFO  c.b.BrowserStackPluginActivator - Is BrowserStack Plugin enabled during the launch? - false
+17:11:30.175 [Worker-134: Launching PicMeWebAutomation_src.main.resources.XMLFiles.LoginXML.Login.xml] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_TEST_OBSERVABILITY=false, BROWSERSTACK_PLUGIN_SDK_ENABLED=false, BROWSERSTACK_AUTOMATION=false}
+17:12:10.567 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+17:12:10.567 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys [BROWSERSTACK_PLUGIN_ENABLED]
+17:12:10.569 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : false P/PicMeWebAutomation
+17:12:10.570 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+17:12:10.570 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys [BROWSERSTACK_PLUGIN_ENABLED]
+17:12:10.572 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : true P/PicMeWebAutomation
+17:12:12.354 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+17:12:12.359 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys [BROWSERSTACK_PLUGIN_ENABLED]
+17:12:12.368 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : false P/PicMeWebAutomation
+17:12:12.369 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+17:12:12.372 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys [BROWSERSTACK_PLUGIN_ENABLED]
+17:12:12.377 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : true P/PicMeWebAutomation
+17:12:15.428 [main] INFO  c.b.BrowserStackPluginActivator - Setting browserstackPluginEnabled (BROWSERSTACK_PLUGIN_ENABLED) in plugin prefs - true
+17:12:15.456 [main] INFO  c.b.actions.BrowserStackPluginToggle - Is Enabled file:/C:/Users/91797/eclipse-workspace/PicMeWebAutomation
+17:12:22.808 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+17:12:22.808 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys [BROWSERSTACK_PLUGIN_ENABLED]
+17:12:22.809 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/PicMeWebAutomation
+17:12:22.810 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+17:12:22.810 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys [BROWSERSTACK_PLUGIN_ENABLED]
+17:12:22.811 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/PicMeWebAutomation
+17:12:24.316 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+17:12:24.320 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys [BROWSERSTACK_PLUGIN_ENABLED]
+17:12:24.328 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/PicMeWebAutomation
+17:12:24.330 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+17:12:24.332 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys [BROWSERSTACK_PLUGIN_ENABLED]
+17:12:24.338 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/PicMeWebAutomation
+17:12:32.340 [Worker-151: Launching PicMeWebAutomation_src.main.resources.XMLFiles.LoginXML.Login.xml] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+17:12:32.340 [Worker-151: Launching PicMeWebAutomation_src.main.resources.XMLFiles.LoginXML.Login.xml] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+17:12:32.344 [Worker-151: Launching PicMeWebAutomation_src.main.resources.XMLFiles.LoginXML.Login.xml] INFO  c.b.BrowserStackPluginActivator - Prefs Keys [BROWSERSTACK_PLUGIN_ENABLED]
+17:12:32.344 [Worker-151: Launching PicMeWebAutomation_src.main.resources.XMLFiles.LoginXML.Login.xml] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.10}
+17:14:41.647 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+17:14:41.647 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys [BROWSERSTACK_PLUGIN_ENABLED]
+17:14:41.649 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/PicMeWebAutomation
+17:14:41.650 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+17:14:41.650 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys [BROWSERSTACK_PLUGIN_ENABLED]
+17:14:41.652 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/PicMeWebAutomation
+17:14:44.817 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+17:14:44.819 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys [BROWSERSTACK_PLUGIN_ENABLED]
+17:14:44.822 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/PicMeWebAutomation
+17:14:44.822 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+17:14:44.823 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys [BROWSERSTACK_PLUGIN_ENABLED]
+17:14:44.826 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/PicMeWebAutomation
+17:14:46.324 [main] INFO  c.b.BrowserStackPluginActivator - Setting browserstackPluginEnabled (BROWSERSTACK_PLUGIN_ENABLED) in plugin prefs - false
+17:14:46.347 [main] INFO  c.b.actions.BrowserStackPluginToggle - Is Enabled file:/C:/Users/91797/eclipse-workspace/PicMeWebAutomation
+17:14:49.462 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+17:14:49.462 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys [BROWSERSTACK_PLUGIN_ENABLED]
+17:14:49.465 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : false P/PicMeWebAutomation
+17:14:49.467 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+17:14:49.468 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys [BROWSERSTACK_PLUGIN_ENABLED]
+17:14:49.469 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : true P/PicMeWebAutomation
+17:14:51.251 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+17:14:51.253 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys [BROWSERSTACK_PLUGIN_ENABLED]
+17:14:51.255 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : false P/PicMeWebAutomation
+17:14:51.255 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+17:14:51.257 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys [BROWSERSTACK_PLUGIN_ENABLED]
+17:14:51.259 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : true P/PicMeWebAutomation
+17:15:00.018 [Worker-147: Launching PicMeWebAutomation_src.main.resources.XMLFiles.LoginXML.Login.xml] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+17:15:00.019 [Worker-147: Launching PicMeWebAutomation_src.main.resources.XMLFiles.LoginXML.Login.xml] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+17:15:00.021 [Worker-147: Launching PicMeWebAutomation_src.main.resources.XMLFiles.LoginXML.Login.xml] INFO  c.b.BrowserStackPluginActivator - Prefs Keys [BROWSERSTACK_PLUGIN_ENABLED]
+17:15:00.022 [Worker-147: Launching PicMeWebAutomation_src.main.resources.XMLFiles.LoginXML.Login.xml] INFO  c.b.BrowserStackPluginActivator - Is BrowserStack Plugin enabled during the launch? - false
+17:15:00.023 [Worker-147: Launching PicMeWebAutomation_src.main.resources.XMLFiles.LoginXML.Login.xml] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_TEST_OBSERVABILITY=false, BROWSERSTACK_AUTOMATION=false, BROWSERSTACK_PLUGIN_SDK_ENABLED=false}
+21:02:49.892 [Framework stop - Equinox Container: f2848db7-22aa-4a44-bbe3-518a7daec6a4] INFO  c.b.BrowserStackPluginActivator - Stopping BrowserStack Plugin...

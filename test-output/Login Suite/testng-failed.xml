@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite thread-count="2" parallel="tests" name="Failed suite [Login Suite]" guice-stage="DEVELOPMENT">
+  <parameter name="executionEnv" value="local"/>
+  <parameter name="browser" value="Chrome"/>
+  <parameter name="browserstack.testObservability" value="false"/>
+  <test thread-count="2" parallel="classes" name="TestCaseLogin-1(failed)">
+    <parameter name="browserstack.testObservability" value="false"/>
+    <parameter name="executionEnv" value="local"/>
+    <parameter name="platform" value="1"/>
+    <parameter name="browser" value="Chrome"/>
+    <groups>
+      <run>
+        <include name="Web"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="Login.VerifyTheFunctionalitiesOfLogin">
+        <methods>
+          <include name="verifyLoginToApplicationWithValidCredentials"/>
+          <include name="CreateWebDriver"/>
+          <include name="Report"/>
+          <include name="VerifyTestPrerequisites"/>
+          <include name="closeWebDriver"/>
+          <include name="CloseBrowserStackLocal"/>
+        </methods>
+      </class> <!-- Login.VerifyTheFunctionalitiesOfLogin -->
+    </classes>
+  </test> <!-- TestCaseLogin-1(failed) -->
+  <test thread-count="2" parallel="classes" name="TestCaseLogin-0(failed)">
+    <parameter name="browserstack.testObservability" value="false"/>
+    <parameter name="executionEnv" value="local"/>
+    <parameter name="platform" value="0"/>
+    <parameter name="browser" value="Chrome"/>
+    <groups>
+      <run>
+        <include name="Web"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="Login.VerifyTheFunctionalitiesOfLogin">
+        <methods>
+          <include name="verifyLoginToApplicationWithValidCredentials"/>
+          <include name="CreateWebDriver"/>
+          <include name="Report"/>
+          <include name="VerifyTestPrerequisites"/>
+          <include name="closeWebDriver"/>
+          <include name="CloseBrowserStackLocal"/>
+        </methods>
+      </class> <!-- Login.VerifyTheFunctionalitiesOfLogin -->
+    </classes>
+  </test> <!-- TestCaseLogin-0(failed) -->
+</suite> <!-- Failed suite [Login Suite] -->

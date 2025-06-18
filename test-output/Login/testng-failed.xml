@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite thread-count="1" parallel="tests" name="Failed suite [Login]" guice-stage="DEVELOPMENT">
+  <test thread-count="1" parallel="classes" name="TestCaseLogin(failed)">
+    <parameter name="browserName" value="Chrome"/>
+    <groups>
+      <run>
+        <include name="Web"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="Login.VerifyTheFunctionalitiesOfLogin">
+        <methods>
+          <include name="verifyLoginToApplicationWithValidCredentials"/>
+          <include name="CreateWebDriver"/>
+          <include name="Report"/>
+          <include name="closeWebDriver"/>
+          <include name="CloseBrowserStackLocal"/>
+        </methods>
+      </class> <!-- Login.VerifyTheFunctionalitiesOfLogin -->
+    </classes>
+  </test> <!-- TestCaseLogin(failed) -->
+</suite> <!-- Failed suite [Login] -->

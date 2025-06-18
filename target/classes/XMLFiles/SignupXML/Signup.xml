@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="CreateAccount Suite:" parallel="tests" thread-count="1">
+<!-- BrowserStackChrome, Firefox, Chrome, IE  -->
+	<test name="TestCaseSignup" parallel="classes">
+		<parameter name="browserName" value="Chrome" />
+		<groups>
+			<run>
+				<include name="Web" />			
+			</run>
+		</groups>
+		
+		<classes>
+			<class name="CreateAccount.VerifyFunctionalitiesOfCreateAccount">
+			</class>
+		</classes>
+	</test>	
+</suite>
