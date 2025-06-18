@@ -1,12 +1,12 @@
-name: Run Selenium Tests
+name: Run Selenium Tests and Email Report
 
 on:
   push:
-    branches: [ main ]         # Triggers on push to main
-  workflow_dispatch:           # Also allows manual trigger
+    branches: [ main ]
+  workflow_dispatch:
 
 jobs:
-  build:
+  test-and-email:
     runs-on: ubuntu-latest
 
     steps:
@@ -26,3 +26,23 @@ jobs:
 
     - name: Run Maven Tests
       run: mvn clean test -DbaseUrl=https://picme.com/
+
+    - name: Find Report.html
+      id: find_report
+      run: |
+        REPORT_PATH=$(find . -name Report.html | head -n 1)
+        echo "report_path=$REPORT_PATH" >> $GITHUB_OUTPUT
+
+    - name: Email Report
+      if: steps.find_report.outputs.report_path != ''
+      uses: dawidd6/action-send-mail@v3
+      with:
+        server_address: smtp.gmail.com
+        server_port: 587
+        username: ${{ secrets.EMAIL_USERNAME }}
+        password: ${{ secrets.EMAIL_PASSWORD }}
+        subject: Selenium Test Report
+        to: qatest122419@gmail.com
+        from: GitHub Actions <${{ secrets.EMAIL_USERNAME }}>
+        body: Test run completed. Report attached.
+        attachments: ${{ steps.find_report.outputs.report_path }}
