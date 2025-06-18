@@ -30,11 +30,11 @@ jobs:
     - name: Find Report.html
       id: find_report
       run: |
-        REPORT_PATH=$(find . -name Report.html | head -n 1)
+        REPORT_PATH=$(find ./target -type f -name "Report.html" | head -n 1)
         echo "report_path=$REPORT_PATH" >> $GITHUB_OUTPUT
 
     - name: Email Report
-      if: steps.find_report.outputs.report_path != ''
+      if: ${{ steps.find_report.outputs.report_path != '' }}
       uses: dawidd6/action-send-mail@v3
       with:
         server_address: smtp.gmail.com
