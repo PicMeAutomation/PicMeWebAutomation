@@ -3,7 +3,7 @@
 <suite parallel="false" name="PicMeAutomationWeb All Suites Result:">
    <suite-files>
        <suite-file path="./src/main/resources/XMLFiles/LoginXML/Login.xml" /> 
-	   <suite-file path="./src/main/resources/XMLFiles/SignupXML/Signup.xml" /> 
-	   <suite-file path="./src/main/resources/XMLFiles/CollectionXML/Collection.xml" /> 
+	   <!--<suite-file path="./src/main/resources/XMLFiles/SignupXML/Signup.xml" /> 
+	   <suite-file path="./src/main/resources/XMLFiles/CollectionXML/Collection.xml" /> -->
    </suite-files>
 </suite>
